@@ -1,3 +1,4 @@
+#comment
 terraform {
   required_version = ">= 2.27.0"
 }
